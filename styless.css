@@ -4,9 +4,8 @@
   margin-left:25%
 }
 #photo{
-  width:50%;
-  margin-left:75%;
   padding:10px;
+  broder:10px solid black;
 }
 img[src]{
   width:192px;
