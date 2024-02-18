@@ -3,8 +3,8 @@
   width:50%
   margin-left:25%
 }
-img[src]{
-    border:5px solid white;
-    width:100%;
-    margin-top:10pt;
+#photo{
+  width:50%
+  margin-left:75%;
+  padding:10px;
 }
